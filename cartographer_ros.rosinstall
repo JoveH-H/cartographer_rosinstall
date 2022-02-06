@@ -1,0 +1,2 @@
+- git: {local-name: cartographer, uri: 'https://gitcode.net/mirrors/cartographer-project/cartographer.git', version: 'master'}
+- git: {local-name: cartographer_ros, uri: 'https://gitcode.net/mirrors/cartographer-project/cartographer_ros.git', version: 'master'}
